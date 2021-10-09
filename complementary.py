@@ -1,7 +1,7 @@
 def DNA_strand(dna):
     """This function iterates through the DNA strain
     given and changes the letters as prescribed.
-    It is a challenge found in codewars. The link is in the read me."""
+    It is a challenge found in codewars. The link is in the read me found in this repo."""
     new_string = ''
     for letter in dna:
         if letter == "A":
