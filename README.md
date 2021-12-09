@@ -1,7 +1,7 @@
 # PYTHON PRACTICE
 
 ## ABOUT
- This a repo of my coding practice in python using challenges from https://www.codewars.com/dashboard
+ This a repo of my coding practice in python using challenges from https://www.codewars.com/dashboard and https://leetcode.com
  
 ### File Descriptions
  **[check_digit.py](check_digit.py)** - This code is used to check if credit cards are authentic or not. It is closely related to Luhn algorithim.

@@ -1,0 +1,4 @@
+This is a simple doc txt with a few lines
+I am using to practice file IO in python
+Hopefully I understannd the procedure
+God grant me His peace and love.
